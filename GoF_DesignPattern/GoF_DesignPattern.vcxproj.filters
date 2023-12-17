@@ -18,12 +18,30 @@
     <ClCompile Include="Creational Pattern\Abstract Factory\AbstractFactory1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Creational Pattern\Builder\Version1\Builder1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Creational Pattern\Builder\Version2\Builder2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\AbstractFactory1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Creational Pattern\Abstract Factory\CarComponents.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Builder\Version1\Builder1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Builder\Version1\Builder1_Components.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Builder\Version2\Builder2_Components.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Builder\Version2\Builder2.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

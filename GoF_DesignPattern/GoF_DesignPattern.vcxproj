@@ -140,10 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Creational Pattern\Abstract Factory\AbstractFactory1.cpp" />
+    <ClCompile Include="Creational Pattern\Builder\Version1\Builder1.cpp" />
+    <ClCompile Include="Creational Pattern\Builder\Version2\Builder2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\AbstractFactory1.h" />
     <ClInclude Include="Creational Pattern\Abstract Factory\CarComponents.h" />
+    <ClInclude Include="Creational Pattern\Builder\Version1\Builder1.h" />
+    <ClInclude Include="Creational Pattern\Builder\Version1\Builder1_Components.h" />
+    <ClInclude Include="Creational Pattern\Builder\Version2\Builder2.h" />
+    <ClInclude Include="Creational Pattern\Builder\Version2\Builder2_Components.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
