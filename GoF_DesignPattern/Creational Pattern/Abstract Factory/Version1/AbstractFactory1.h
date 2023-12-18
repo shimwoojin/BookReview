@@ -1,5 +1,5 @@
 #pragma once
-#include "CarComponents.h"
+#include "AbstractFactory1_Components.h"
 #include <iostream>
 
 std::ostream& operator<<(std::ostream& o, CarBody::SizeType size_type);

@@ -139,17 +139,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Creational Pattern\Abstract Factory\AbstractFactory1.cpp" />
+    <ClCompile Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version1\Builder1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version2\Builder2.cpp" />
+    <ClCompile Include="Creational Pattern\Factory Method\Version1\FactoryMethod1.cpp" />
+    <ClCompile Include="Creational Pattern\Factory Method\Version1\FactoryMethod1_Components.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Creational Pattern\Abstract Factory\AbstractFactory1.h" />
-    <ClInclude Include="Creational Pattern\Abstract Factory\CarComponents.h" />
+    <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
+    <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1_Components.h" />
     <ClInclude Include="Creational Pattern\Builder\Version1\Builder1.h" />
     <ClInclude Include="Creational Pattern\Builder\Version1\Builder1_Components.h" />
     <ClInclude Include="Creational Pattern\Builder\Version2\Builder2.h" />
     <ClInclude Include="Creational Pattern\Builder\Version2\Builder2_Components.h" />
+    <ClInclude Include="Creational Pattern\Factory Method\Version1\FactoryMethod1.h" />
+    <ClInclude Include="Creational Pattern\Factory Method\Version2\FactoryMethod2.h" />
+    <ClInclude Include="Creational Pattern\Factory Method\Version2\FactoryMethod2_Components.h" />
+    <ClInclude Include="Creational Pattern\Factory Method\Version3\FactoryMethod3.h" />
+    <ClInclude Include="Creational Pattern\Factory Method\Version3\FactoryMethod3_Components.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
