@@ -144,6 +144,11 @@
     <ClCompile Include="Creational Pattern\Builder\Version2\Builder2.cpp" />
     <ClCompile Include="Creational Pattern\Factory Method\Version1\FactoryMethod1.cpp" />
     <ClCompile Include="Creational Pattern\Factory Method\Version1\FactoryMethod1_Components.h" />
+    <ClCompile Include="Creational Pattern\Prototype\Version1\Prototype1.cpp" />
+    <ClCompile Include="Creational Pattern\Singleton\Version0\main.cpp" />
+    <ClCompile Include="Creational Pattern\Singleton\Version1\main.cpp" />
+    <ClCompile Include="Creational Pattern\Singleton\Version0\SingletonBasic.cpp" />
+    <ClCompile Include="Creational Pattern\Singleton\Version1\Singleton1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
@@ -157,6 +162,10 @@
     <ClInclude Include="Creational Pattern\Factory Method\Version2\FactoryMethod2_Components.h" />
     <ClInclude Include="Creational Pattern\Factory Method\Version3\FactoryMethod3.h" />
     <ClInclude Include="Creational Pattern\Factory Method\Version3\FactoryMethod3_Components.h" />
+    <ClInclude Include="Creational Pattern\Prototype\Version1\Prototype1.h" />
+    <ClInclude Include="Creational Pattern\Prototype\Version1\Prototype1_Components.h" />
+    <ClInclude Include="Creational Pattern\Singleton\Version0\SingletonBasic.h" />
+    <ClInclude Include="Creational Pattern\Singleton\Version1\Singleton1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

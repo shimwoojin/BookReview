@@ -30,6 +30,21 @@
     <ClCompile Include="Creational Pattern\Factory Method\Version1\FactoryMethod1_Components.h">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Creational Pattern\Prototype\Version1\Prototype1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Creational Pattern\Singleton\Version0\SingletonBasic.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Creational Pattern\Singleton\Version1\main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Creational Pattern\Singleton\Version1\Singleton1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Creational Pattern\Singleton\Version0\main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h">
@@ -63,6 +78,18 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Creational Pattern\Factory Method\Version3\FactoryMethod3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Prototype\Version1\Prototype1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Prototype\Version1\Prototype1_Components.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Singleton\Version0\SingletonBasic.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Creational Pattern\Singleton\Version1\Singleton1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
