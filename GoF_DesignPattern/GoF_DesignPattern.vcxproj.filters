@@ -36,13 +36,13 @@
     <ClCompile Include="Creational Pattern\Singleton\Version0\SingletonBasic.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Creational Pattern\Singleton\Version1\main.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Creational Pattern\Singleton\Version1\Singleton1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Creational Pattern\Singleton\Version0\main.cpp">
+    <ClCompile Include="Structural Pattern\Adapter\Version1\Adapter1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Structural Pattern\Adapter\Version2\Adapter2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -90,6 +90,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Creational Pattern\Singleton\Version1\Singleton1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Structural Pattern\Adapter\Version1\Adapter1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Structural Pattern\Adapter\Version2\Adapter2.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

@@ -145,10 +145,10 @@
     <ClCompile Include="Creational Pattern\Factory Method\Version1\FactoryMethod1.cpp" />
     <ClCompile Include="Creational Pattern\Factory Method\Version1\FactoryMethod1_Components.h" />
     <ClCompile Include="Creational Pattern\Prototype\Version1\Prototype1.cpp" />
-    <ClCompile Include="Creational Pattern\Singleton\Version0\main.cpp" />
-    <ClCompile Include="Creational Pattern\Singleton\Version1\main.cpp" />
     <ClCompile Include="Creational Pattern\Singleton\Version0\SingletonBasic.cpp" />
     <ClCompile Include="Creational Pattern\Singleton\Version1\Singleton1.cpp" />
+    <ClCompile Include="Structural Pattern\Adapter\Version1\Adapter1.cpp" />
+    <ClCompile Include="Structural Pattern\Adapter\Version2\Adapter2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
@@ -166,6 +166,8 @@
     <ClInclude Include="Creational Pattern\Prototype\Version1\Prototype1_Components.h" />
     <ClInclude Include="Creational Pattern\Singleton\Version0\SingletonBasic.h" />
     <ClInclude Include="Creational Pattern\Singleton\Version1\Singleton1.h" />
+    <ClInclude Include="Structural Pattern\Adapter\Version1\Adapter1.h" />
+    <ClInclude Include="Structural Pattern\Adapter\Version2\Adapter2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
