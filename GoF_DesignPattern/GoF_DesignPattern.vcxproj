@@ -149,6 +149,8 @@
     <ClCompile Include="Creational Pattern\Singleton\Version1\Singleton1.cpp" />
     <ClCompile Include="Structural Pattern\Adapter\Version1\Adapter1.cpp" />
     <ClCompile Include="Structural Pattern\Adapter\Version2\Adapter2.cpp" />
+    <ClCompile Include="Structural Pattern\Bridge\Version1\Bridge1.cpp" />
+    <ClCompile Include="Structural Pattern\Composite\Version1\Composite1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
@@ -168,6 +170,9 @@
     <ClInclude Include="Creational Pattern\Singleton\Version1\Singleton1.h" />
     <ClInclude Include="Structural Pattern\Adapter\Version1\Adapter1.h" />
     <ClInclude Include="Structural Pattern\Adapter\Version2\Adapter2.h" />
+    <ClInclude Include="Structural Pattern\Bridge\Version1\Bridge1.h" />
+    <ClInclude Include="Structural Pattern\Composite\Version1\Composite1.h" />
+    <ClInclude Include="Structural Pattern\Composite\Version1\Composite1_Sub.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
