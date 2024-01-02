@@ -154,6 +154,7 @@
     <ClCompile Include="Structural Pattern\Decorator\Version1\Decorator1.cpp" />
     <ClCompile Include="Structural Pattern\Facade\Version1\Facade1.cpp" />
     <ClCompile Include="Structural Pattern\Flyweight\Version1\Flyweight1.cpp" />
+    <ClCompile Include="Structural Pattern\Proxy\Version1\Proxy1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
@@ -179,6 +180,7 @@
     <ClInclude Include="Structural Pattern\Decorator\Version1\Decorator1.h" />
     <ClInclude Include="Structural Pattern\Facade\Version1\Facade1.h" />
     <ClInclude Include="Structural Pattern\Flyweight\Version1\Flyweight1.h" />
+    <ClInclude Include="Structural Pattern\Proxy\Version1\Proxy1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
