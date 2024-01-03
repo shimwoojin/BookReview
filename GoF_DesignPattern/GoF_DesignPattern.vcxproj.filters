@@ -63,6 +63,12 @@
     <ClCompile Include="Structural Pattern\Proxy\Version1\Proxy1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Behavioral Pattern\Chain Of Responsibility\Version1\ChainOfResponsibility1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Behavioral Pattern\Chain Of Responsibility\Version2\ChainOfResponsibility2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h">
@@ -135,6 +141,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Structural Pattern\Proxy\Version1\Proxy1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Behavioral Pattern\Chain Of Responsibility\Version1\ChainOfResponsibility1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Behavioral Pattern\Chain Of Responsibility\Version2\ChainOfResponsibility2.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

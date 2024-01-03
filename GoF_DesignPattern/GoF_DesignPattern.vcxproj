@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Behavioral Pattern\Chain Of Responsibility\Version1\ChainOfResponsibility1.cpp" />
+    <ClCompile Include="Behavioral Pattern\Chain Of Responsibility\Version2\ChainOfResponsibility2.cpp" />
     <ClCompile Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version1\Builder1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version2\Builder2.cpp" />
@@ -157,6 +159,8 @@
     <ClCompile Include="Structural Pattern\Proxy\Version1\Proxy1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Behavioral Pattern\Chain Of Responsibility\Version1\ChainOfResponsibility1.h" />
+    <ClInclude Include="Behavioral Pattern\Chain Of Responsibility\Version2\ChainOfResponsibility2.h" />
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1_Components.h" />
     <ClInclude Include="Creational Pattern\Builder\Version1\Builder1.h" />
