@@ -75,7 +75,7 @@
     <ClCompile Include="Behavioral Pattern\Command\Version2\Command2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Behavioral Pattern\Command\Version1\main.cpp">
+    <ClCompile Include="Behavioral Pattern\Interpreter\Version1\Interpreter1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -162,6 +162,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Behavioral Pattern\Command\Version2\Command2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Behavioral Pattern\Interpreter\Version1\Interpreter1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
