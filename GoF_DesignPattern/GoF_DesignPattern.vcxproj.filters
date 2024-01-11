@@ -81,6 +81,12 @@
     <ClCompile Include="Behavioral Pattern\Iterator\Version1\Iterator1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Behavioral Pattern\Mediator\Version1\Mediator1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Behavioral Pattern\Mediator\Version1\main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h">
@@ -171,6 +177,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Behavioral Pattern\Iterator\Version1\Iterator1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Behavioral Pattern\Mediator\Version1\Mediator1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
