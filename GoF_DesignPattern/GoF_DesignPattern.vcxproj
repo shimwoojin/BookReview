@@ -150,6 +150,7 @@
     <ClCompile Include="Behavioral Pattern\Memento\Version1\Memento1.cpp" />
     <ClCompile Include="Behavioral Pattern\Observer\Version1\Observer1.cpp" />
     <ClCompile Include="Behavioral Pattern\State\Version1\State1.cpp" />
+    <ClCompile Include="Behavioral Pattern\State\Version2\State2.cpp" />
     <ClCompile Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version1\Builder1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version2\Builder2.cpp" />
@@ -178,6 +179,7 @@
     <ClInclude Include="Behavioral Pattern\Memento\Version1\Memento1.h" />
     <ClInclude Include="Behavioral Pattern\Observer\Version1\Observer1.h" />
     <ClInclude Include="Behavioral Pattern\State\Version1\State1.h" />
+    <ClInclude Include="Behavioral Pattern\State\Version2\State2.h" />
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1_Components.h" />
     <ClInclude Include="Creational Pattern\Builder\Version1\Builder1.h" />
