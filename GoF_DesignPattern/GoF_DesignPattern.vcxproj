@@ -148,6 +148,7 @@
     <ClCompile Include="Behavioral Pattern\Iterator\Version1\Iterator1.cpp" />
     <ClCompile Include="Behavioral Pattern\Mediator\Version1\Mediator1.cpp" />
     <ClCompile Include="Behavioral Pattern\Memento\Version1\Memento1.cpp" />
+    <ClCompile Include="Behavioral Pattern\Observer\Version1\Observer1.cpp" />
     <ClCompile Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version1\Builder1.cpp" />
     <ClCompile Include="Creational Pattern\Builder\Version2\Builder2.cpp" />
@@ -174,6 +175,7 @@
     <ClInclude Include="Behavioral Pattern\Iterator\Version1\Iterator1.h" />
     <ClInclude Include="Behavioral Pattern\Mediator\Version1\Mediator1.h" />
     <ClInclude Include="Behavioral Pattern\Memento\Version1\Memento1.h" />
+    <ClInclude Include="Behavioral Pattern\Observer\Version1\Observer1.h" />
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1.h" />
     <ClInclude Include="Creational Pattern\Abstract Factory\Version1\AbstractFactory1_Components.h" />
     <ClInclude Include="Creational Pattern\Builder\Version1\Builder1.h" />
